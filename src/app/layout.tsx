@@ -1,4 +1,5 @@
 import Navbar from "@/components/navbar"
+import '@/app/globals.css'
 
 export const metadata = {
   title: 'Next.js',
