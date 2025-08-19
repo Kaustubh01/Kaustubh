@@ -7,3 +7,6 @@ body{
   color: white;
   height: 80vh;
 }
+html {
+  scroll-behavior: smooth;
+}
