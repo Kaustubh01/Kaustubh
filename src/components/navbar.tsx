@@ -32,7 +32,7 @@ export default function Navbar() {
   }, []);
 
   return (
-    <nav className="bg-gray-900 text-white px-6 py-4 flex items-center justify-between fixed w-full top-0 z-50">
+    <nav className="bg-gray-900 text-white px-6 py-4 flex items-center justify-between w-full top-0 z-50">
       {/* Logo */}
       <div className="text-xl font-bold">MyLogo</div>
 
